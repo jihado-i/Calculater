@@ -14,7 +14,8 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - Decimal point (.)
 
 ## Live Preview:
-You can try out the calculator app live [here](insert_live_preview_link).
+You can try out the calculator app live [here](https://jihado-i.github.io/Calculater/).
+
 
 ## How to Use:
 Simply input numbers and select the desired operation using the provided buttons. The result will be displayed in real-time as you perform calculations.
