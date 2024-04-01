@@ -1,4 +1,4 @@
-![image](https://github.com/jihado-i/Calculater-JavaScript/assets/81075046/72dbba3a-58f6-4e06-8289-11a0afc42e0e)# Calculator App
+# Calculator App
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division .
 
