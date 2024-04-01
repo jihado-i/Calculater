@@ -1,6 +1,6 @@
 # Calculator App
 
-This is a simple calculator web application built using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division, along with additional functionalities like percentage calculation, square root, and power operation.
+This is a simple calculator web application built using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division .
 
 ## Features:
 - Addition (+)
