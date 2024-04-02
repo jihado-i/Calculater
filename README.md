@@ -2,6 +2,7 @@
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division .
 
+
 ![image](https://github.com/jihado-i/Calculater-JavaScript/assets/81075046/81c51254-eb34-4902-8072-41606f03a878)
 
 
